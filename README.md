@@ -25,6 +25,8 @@ Clique em "Adicionar Receita" e insira, por exemplo, a descrição "Salário" co
 Em seguida, clique em "Adicionar Despesa" e insira algo como "Teclado" com o valor 200.
 Ao clicar em "Saldo", o sistema mostrará o valor restante com base nas receitas e despesas registradas.
 Pode mexer e testando, já que é essa a proposta.
+![image](https://github.com/user-attachments/assets/f5a76466-28cb-41ac-a14f-589c72d7bd0a)
+
 
 Detalhes que vc não pode esquecer:
 O projeto roda em FlatLaf para um visual moderno e limpo.
