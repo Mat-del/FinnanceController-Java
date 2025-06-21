@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.project.referencedLibraries": [
+    "lib\\flatlaf-3.4-sources.jar",
+    "c:\\src\\Conversor em JAVA\\lib\\flatlaf-3.4.jar"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
